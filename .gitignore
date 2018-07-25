@@ -64,5 +64,5 @@ typings/
 *.swp
 *.swo
 
-# build output
-wind-tunnel.js
+# build output, but we can't ignore it because it's required for the submission
+# vortex-pool.js
